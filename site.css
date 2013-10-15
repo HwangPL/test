@@ -1,0 +1,67 @@
+div#content {
+	/* border: 10px groove #ff00ff; */
+	margin: 0 auto;
+	background-color: #DDDDDD;
+	width: 960px;
+	height: 775px
+}
+
+div#left {
+	width: 300px;
+	height: 750px;
+	float:left;
+	margin: 10px;
+	border: 1px solid black;
+	background-color: #AAAAAA;
+}
+
+
+div#menu {
+	width: 295px;
+	height: 730px;
+	border: 1px solid black;
+	background-color: #AAAAAA;
+}
+
+div#right {
+	width: 610px;	height: 750px;
+	float:right;
+	margin: 10px;
+	border: 1px solid black;
+	background-color: #AAAAAA;
+}
+
+div#product {
+	width: 610px;
+	height: 610px;
+	border: 1px solid black;
+	background-color: #AAAAAA;
+}
+
+div#product_info_box {
+	border: 1px solid black;
+	background-color: #AAAAAA;
+}
+
+div#add {
+	float:left;
+	width: 300px;
+	height: 120px;
+	border: 1px solid black;
+	background-color: #AAAAAA;
+}
+
+
+div#info {
+	float:right;
+	width: 300px;
+	height: 120px;
+	border: 1px solid black;
+	background-color: #AAAAAA;
+}
+
+div#footer {
+	text-align:center;
+	font-size: 12px;
+	font-weight: bold;
+}
