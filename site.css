@@ -1,14 +1,15 @@
 div#content {
 	/* border: 10px groove #ff00ff; */
-	margin: 0 auto;
+	margin: 0px auto;
 	background-color: #DDDDDD;
 	width: 960px;
-	height: 775px
+	height: 580px
 }
 
 div#left {
-	width: 300px;
-	height: 750px;
+	margin: 10 0 10 0;
+	width: 210px;
+	height: 560px;
 	float:left;
 	margin: 10px;
 	border: 1px solid black;
@@ -17,47 +18,47 @@ div#left {
 
 
 div#menu {
-	width: 295px;
-	height: 730px;
-	border: 1px solid black;
-	background-color: #AAAAAA;
+	width: 190px;
+	height: 540px;
+	margin: 10px;
+	background-color: #777777;
 }
 
 div#right {
-	width: 610px;	height: 750px;
+	margin: 10 0 10 0;
+	width: 750px;	height: 560px;
 	float:right;
-	margin: 10px;
-	border: 1px solid black;
-	background-color: #AAAAAA;
+
+	background-color: #BBBBBB;
 }
 
 div#product {
-	width: 610px;
-	height: 610px;
-	border: 1px solid black;
-	background-color: #AAAAAA;
+	width: 730px;
+	height: 410px;
+	margin: 10px;
+	background-color: #777777;
 }
 
 div#product_info_box {
-	border: 1px solid black;
+
 	background-color: #AAAAAA;
 }
 
 div#add {
 	float:left;
-	width: 300px;
+	width: 190px;
 	height: 120px;
-	border: 1px solid black;
-	background-color: #AAAAAA;
+	margin: 0 10 0 10;
+	background-color: #777777;
 }
 
 
 div#info {
-	float:right;
-	width: 300px;
+	float:right;  
+	width: 530px;
 	height: 120px;
-	border: 1px solid black;
-	background-color: #AAAAAA;
+	margin: 0 10 0 0;
+	background-color: #777777;
 }
 
 div#footer {
