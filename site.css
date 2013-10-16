@@ -11,8 +11,6 @@ div#left {
 	width: 210px;
 	height: 560px;
 	float:left;
-	margin: 10px;
-	border: 1px solid black;
 	background-color: #AAAAAA;
 }
 
@@ -26,7 +24,8 @@ div#menu {
 
 div#right {
 	margin: 10 0 10 0;
-	width: 750px;	height: 560px;
+	width: 750px;
+	height: 560px;
 	float:right;
 
 	background-color: #BBBBBB;
@@ -36,7 +35,7 @@ div#product {
 	width: 730px;
 	height: 410px;
 	margin: 10px;
-	background-color: #777777;   
+	background-color: #777777;
 }
 
 div#product_info_box {
