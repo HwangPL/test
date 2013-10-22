@@ -7,7 +7,7 @@ div#content {
 }
 
 div#left {
-	margin: 10 0 10 0;
+	margin: 10px 0px 10px 0px;
 	width: 210px;
 	height: 560px;
 	float:left;
@@ -23,7 +23,7 @@ div#menu {
 }
 
 div#right {
-	margin: 10 0 10 0;
+	margin: 10px 0 10px 0;
 	width: 750px;
 	height: 560px;
 	float:right;
@@ -47,7 +47,7 @@ div#add {
 	float:left;
 	width: 190px;
 	height: 120px;
-	margin: 0 10 0 10;
+	margin: 0 10px 0 10px;
 	background-color: #777777;
 }
 
@@ -56,7 +56,7 @@ div#info {
 	float:right;  
 	width: 530px;
 	height: 120px;
-	margin: 0 10 0 0;
+	margin: 0 10px 0 0;
 	background-color: #777777;
 }
 

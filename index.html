@@ -1,19 +1,62 @@
+<!DOCTYPE html>
 <html>
 	<head>
+		<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="skins/tango/skin.css" />
 		<link rel="stylesheet" media="all" type="text/css" href="site.css" />
+		<title>dupa jasia</title>
+		<script type="text/javascript">
+			$(document).ready(function() {
+			    $('#mycarousel').jcarousel({
+			        vertical: true, scroll: 3, wrap: "last"
+			    });
+			    
+			    $('#produkt1').click(function(){
+			    	$('#produkt1_big').show();
+			    	$('#produkt2_big').hide();
+			    	$('#produkt3_big').hide();
+			    	$('#produkt4_big').hide();
+			    	$('#produkt5_big').hide();
+			    	$('#produkt6_big').hide();
+			    });
+			    $('#produkt2').click(function(){
+			    	$('#produkt1_big').hide();
+			    	$('#produkt2_big').show();
+			    	$('#produkt3_big').hide();
+			    	$('#produkt4_big').hide();
+			    	$('#produkt5_big').hide();
+			    	$('#produkt6_big').hide();
+			    });
+			});
+		</script>
 	</head>
 	<body>
 	<div id="content">
 		
 		<div id="left">
 			<div id="menu">
-			 	<span>Menu produktow.</span>
+			 	<ul id="mycarousel" class="jcarousel-skin-tango">
+			 		<li id="produkt1" style="width: 100px; height: 100px"><img src="images/produkt1.jpg" /></li>
+	 				<li id="produkt2" style="width: 100px; height: 100px"><img src="images/produkt2.jpg" /></li>
+	 				<li id="produkt3" style="width: 100px; height: 100px"><img src="images/produkt3.jpg" /></li>
+					<li id="produkt4" style="width: 100px; height: 100px"><img src="images/produkt4.jpg" /></li>
+					<li id="produkt5" style="width: 100px; height: 100px"><img src="images/produkt5.jpg" /></li>
+	 				<li id="produkt6" style="width: 100px; height: 100px"><img src="images/produkt6.jpg" /></li>
+	 				<li id="produkt7" style="width: 100px; height: 100px"><img src="images/produkt7.jpg" /></li>
+					<li id="produkt8" style="width: 100px; height: 100px"><img src="images/produkt8.jpg" /></li>
+			 	</ul>
 	 		</div>
 		</div>
 		
 				<div id="right">
-			<div id="product">
-				<img src="produkt.jpg" alt="Zdjecie produktu">
+			<div id="product">	
+				<img id="produkt1_big" src="images/produkt1_big.jpg" alt="Zdjecie produktu" />
+				<img style="display: none" id="produkt2_big" src="images/produkt2_big.jpg" alt="Zdjecie produktu" />
+				<img style="display: none" id="produkt3_big" src="images/produkt3_big.jpg" alt="Zdjecie produktu" />
+				<img style="display: none" id="produkt4_big" src="images/produkt4_big.jpg" alt="Zdjecie produktu" />
+				<img style="display: none" id="produkt5_big" src="images/produkt5_big.jpg" alt="Zdjecie produktu" />
+				<img style="display: none" id="produkt6_big" src="images/produkt6_big.jpg" alt="Zdjecie produktu" />
 			</div>
 			<div id="product_info_box">
 				<div id="add">
