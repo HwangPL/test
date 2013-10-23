@@ -496,6 +496,8 @@ div#footer {
 	font-weight: bold;
 }
 
-.window {
-}
+#mycarousel li {
+	width: 100px; 
+	height: 100px;
+	cursor: pointer; 
 }

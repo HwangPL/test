@@ -12,21 +12,53 @@
 			        vertical: true, scroll: 3, wrap: "last", animation: "slow"
 			    });
 			    
-			    $('#produkt1').click(function(){
-			    	$('#produkt1_big').show();
-			    	$('#produkt2_big').hide();
-			    	$('#produkt3_big').hide();
-			    	$('#produkt4_big').hide();
-			    	$('#produkt5_big').hide();
-			    	$('#produkt6_big').hide();
+			  	$('#produkt1').click(function(){
+			    	$('.produkt1').show();
+			    	$('.produkt2').hide();
+			    	$('.produkt3').hide();
+			    	$('.produkt4').hide();
+			    	$('.produkt5').hide();
+			    	$('.produkt6').hide();
 			    });
-			    $('#produkt2').click(function(){
-			    	$('#produkt1_big').hide();
-			    	$('#produkt2_big').show();
-			    	$('#produkt3_big').hide();
-			    	$('#produkt4_big').hide();
-			    	$('#produkt5_big').hide();
-			    	$('#produkt6_big').hide();
+			 	$('#produkt2').click(function(){
+			    	$('.produkt1').hide();
+			    	$('.produkt2').show();
+			    	$('.produkt3').hide();
+			    	$('.produkt4').hide();
+			    	$('.produkt5').hide();
+			    	$('.produkt6').hide();
+			    });
+			    $('#produkt3').click(function(){
+			    	$('.produkt1').hide();
+			    	$('.produkt2').hide();
+			    	$('.produkt3').show();
+			    	$('.produkt4').hide();
+			    	$('.produkt5').hide();
+			    	$('.produkt6').hide();
+			    });
+			    $('#produkt4').click(function(){
+			    	$('.produkt1').hide();
+			    	$('.produkt2').hide();
+			    	$('.produkt3').hide();
+			    	$('.produkt4').show();
+			    	$('.produkt5').hide();
+			    	$('.produkt6').hide();
+			    });
+			    $('#produkt5').click(function(){
+			    	$('.produkt1').hide();
+			    	$('.produkt2').hide();
+			    	$('.produkt3').hide();
+			    	$('.produkt4').hide();
+			    	$('.produkt5').show();
+			    	$('.produkt6').hide();
+			    });
+			      $('#produkt6').click(function(){
+			    	$('.produkt1').hide();
+			    	$('.produkt2').hide();
+			    	$('.produkt3').hide();
+			    	$('.produkt4').hide();
+			    	$('.produkt5').hide();
+			    	$('.produkt6').show();
 			    });
 			});
 		</script>
@@ -46,14 +78,14 @@
 					<div id="menu_wlm"> </div>
 			<div id="menu_carousel">
 				 			<ul id="mycarousel" class="jcarousel-skin-tango">
-					 		<li id="produkt1" style="width: 100px; height: 100px"><img src="images/produkt1.jpg" /></li>
-			 				<li id="produkt2" style="width: 100px; height: 100px"><img src="images/produkt2.jpg" /></li>
-			 				<li id="produkt3" style="width: 100px; height: 100px"><img src="images/produkt3.jpg" /></li>
-							<li id="produkt4" style="width: 100px; height: 100px"><img src="images/produkt4.jpg" /></li>
-							<li id="produkt5" style="width: 100px; height: 100px"><img src="images/produkt5.jpg" /></li>
-			 				<li id="produkt6" style="width: 100px; height: 100px"><img src="images/produkt6.jpg" /></li>
-			 				<li id="produkt7" style="width: 100px; height: 100px"><img src="images/produkt7.jpg" /></li>
-							<li id="produkt8" style="width: 100px; height: 100px"><img src="images/produkt8.jpg" /></li>
+						 		<li id="produkt1"><img src="images/produkt1.jpg" /></li>
+				 				<li id="produkt2"><img src="images/produkt2.jpg" /></li>
+				 				<li id="produkt3"><img src="images/produkt3.jpg" /></li>
+								<li id="produkt4"><img src="images/produkt4.jpg" /></li>
+								<li id="produkt5"><img src="images/produkt5.jpg" /></li>
+				 				<li id="produkt6"><img src="images/produkt6.jpg" /></li>
+				 				<li id="produkt7"><img src="images/produkt7.jpg" /></li>
+								<li id="produkt8"><img src="images/produkt8.jpg" /></li>
 							</ul>
 			</div>
 					<div id="menu_wr"> 
@@ -76,12 +108,12 @@
 					<div id="produkt_wtr"> </div>
 					<div id="produkt_wlm"> </div>
 					<div id="produkt_window">
-					<img class="img_produkt" id="produkt1_big" src="images/produkt1_big.jpg" alt="Zdjecie produktu" />
-						<img class="img_produkt" style="display: none" id="produkt2_big" src="images/produkt2_big.jpg" alt="Zdjecie produktu" />
-						<img class="img_produkt" style="display: none" id="produkt3_big" src="images/produkt3_big.jpg" alt="Zdjecie produktu" />
-						<img class="img_produkt" style="display: none" id="produkt4_big" src="images/produkt4_big.jpg" alt="Zdjecie produktu" />
-						<img class="img_produkt" style="display: none" id="produkt5_big" src="images/produkt5_big.jpg" alt="Zdjecie produktu" />
-						<img class="img_produkt" style="display: none" id="produkt6_big" src="images/produkt6_big.jpg" alt="Zdjecie produktu" />
+					<img class="img_produkt produkt1" id="produkt1_big" src="images/produkt1_big.jpg" alt="Zdjecie produktu" />
+						<img class="img_produkt produkt2" style="display: none" id="produkt2_big" src="images/produkt2_big.jpg" alt="Zdjecie produktu" />
+						<img class="img_produkt produkt3" style="display: none" id="produkt3_big" src="images/produkt3_big.jpg" alt="Zdjecie produktu" />
+						<img class="img_produkt produkt4" style="display: none" id="produkt4_big" src="images/produkt4_big.jpg" alt="Zdjecie produktu" />
+						<img class="img_produkt produkt5" style="display: none" id="produkt5_big" src="images/produkt5_big.jpg" alt="Zdjecie produktu" />
+						<img class="img_produkt produkt6" style="display: none" id="produkt6_big" src="images/produkt6_big.jpg" alt="Zdjecie produktu" />
 					</div>
 					<div id="produkt_wr"> 
 						<div id="produkt_wrt"> </div>
@@ -115,7 +147,15 @@
 					<div id="info_wtm"> </div>
 					<div id="info_wtr"> </div>
 					<div id="info_wlm"> </div>
-					<div id="info_produkt"><span>To jest produkt.</span></div>
+					<div id="info_produkt">
+						<span class='produkt1'>To jest produkt 1.</span>
+						<span class='produkt2' style="display:none">To jest produkt 2.</span>
+						<span class='produkt3' style="display:none">To jest produkt 3.</span>
+						<span class='produkt4' style="display:none">To jest produkt 4.</span>
+						<span class='produkt5' style="display:none">To jest produkt 5.</span>
+						<span class='produkt6' style="display:none">To jest produkt 6.</span>
+					</div>
+						
 					<div id="info_wr"> 
 						<div id="info_wrt"> </div>
 						<div id="info_wrm"> </div>
