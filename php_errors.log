@@ -1,0 +1,501 @@
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 143
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 143
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 144
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 144
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 145
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 145
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 146
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 146
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 147
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 147
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 148
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:29:40 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 148
+[27-Oct-2013 12:29:40 UTC] PHP Stack trace:
+[27-Oct-2013 12:29:40 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:19 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[27-Oct-2013 12:30:19 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:19 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:30:34 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[27-Oct-2013 12:30:34 UTC] PHP Stack trace:
+[27-Oct-2013 12:30:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 161
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 161
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 162
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 162
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 163
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:36:25 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 163
+[27-Oct-2013 12:36:25 UTC] PHP Stack trace:
+[27-Oct-2013 12:36:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 161
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 161
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 162
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 162
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 163
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:37:37 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 163
+[27-Oct-2013 12:37:37 UTC] PHP Stack trace:
+[27-Oct-2013 12:37:37 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 174
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 174
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 175
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 175
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 176
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 176
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 177
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 177
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 178
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 178
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 179
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:39:31 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 179
+[27-Oct-2013 12:39:31 UTC] PHP Stack trace:
+[27-Oct-2013 12:39:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 175
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 175
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 176
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 176
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 177
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 177
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 178
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 178
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 179
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 179
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 180
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:12 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 180
+[27-Oct-2013 12:40:12 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:12 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 157
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 157
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 161
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 161
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 162
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 12:40:35 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 162
+[27-Oct-2013 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2013 12:40:35 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 155
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 155
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 156
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 156
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 157
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 157
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 158
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 159
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[27-Oct-2013 19:26:34 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 160
+[27-Oct-2013 19:26:34 UTC] PHP Stack trace:
+[27-Oct-2013 19:26:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:31:57 UTC] PHP Parse error:  syntax error, unexpected '}' in D:\Coding\Aptana\test\index.php on line 31
+[28-Oct-2013 21:32:29 UTC] PHP Parse error:  syntax error, unexpected '}' in D:\Coding\Aptana\test\index.php on line 45
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 143
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 143
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 144
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 144
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 145
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 145
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 146
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 146
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 147
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 147
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 148
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:32:54 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 148
+[28-Oct-2013 21:32:54 UTC] PHP Stack trace:
+[28-Oct-2013 21:32:54 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:33:43 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[28-Oct-2013 21:33:43 UTC] PHP Stack trace:
+[28-Oct-2013 21:33:43 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt1 in D:\Coding\Aptana\test\index.php on line 144
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt2 in D:\Coding\Aptana\test\index.php on line 145
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt3 in D:\Coding\Aptana\test\index.php on line 146
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt4 in D:\Coding\Aptana\test\index.php on line 147
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt5 in D:\Coding\Aptana\test\index.php on line 148
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:35:34 UTC] PHP Notice:  Undefined variable: produkt6 in D:\Coding\Aptana\test\index.php on line 149
+[28-Oct-2013 21:35:34 UTC] PHP Stack trace:
+[28-Oct-2013 21:35:34 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:09 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 26
+[28-Oct-2013 21:41:09 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:09 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:11 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 26
+[28-Oct-2013 21:41:11 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:11 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:22 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:22 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:22 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:24 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:24 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:24 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:25 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:25 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:25 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:25 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:25 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:26 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:26 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:26 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:26 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:26 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:26 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:31 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:31 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 21:41:32 UTC] PHP Fatal error:  Call to undefined function alert() in D:\Coding\Aptana\test\index.php on line 25
+[28-Oct-2013 21:41:32 UTC] PHP Stack trace:
+[28-Oct-2013 21:41:32 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 22:09:32 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\Coding\Aptana\test\index.php on line 157
+[28-Oct-2013 22:10:40 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\Coding\Aptana\test\index.php on line 157
+[28-Oct-2013 22:10:47 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\Coding\Aptana\test\index.php on line 157
+[28-Oct-2013 22:10:49 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\Coding\Aptana\test\index.php on line 152
+[28-Oct-2013 22:11:14 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\Coding\Aptana\test\index.php on line 157
+[28-Oct-2013 22:11:53 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\Coding\Aptana\test\index.php on line 158
+[28-Oct-2013 22:11:57 UTC] PHP Parse error:  syntax error, unexpected end of file in D:\Coding\Aptana\test\index.php on line 158
+[28-Oct-2013 22:58:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 22:58:58 UTC] PHP Stack trace:
+[28-Oct-2013 22:58:58 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 22:59:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 22:59:07 UTC] PHP Stack trace:
+[28-Oct-2013 22:59:07 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 22:59:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 22:59:10 UTC] PHP Stack trace:
+[28-Oct-2013 22:59:10 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 22:59:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 22:59:10 UTC] PHP Stack trace:
+[28-Oct-2013 22:59:10 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 22:59:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 22:59:31 UTC] PHP Stack trace:
+[28-Oct-2013 22:59:31 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 23:00:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 33
+[28-Oct-2013 23:00:17 UTC] PHP Stack trace:
+[28-Oct-2013 23:00:17 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 23:00:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 33
+[28-Oct-2013 23:00:29 UTC] PHP Stack trace:
+[28-Oct-2013 23:00:29 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 23:00:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 23:00:49 UTC] PHP Stack trace:
+[28-Oct-2013 23:00:49 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 23:00:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 23:00:55 UTC] PHP Stack trace:
+[28-Oct-2013 23:00:55 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0
+[28-Oct-2013 23:01:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\Coding\Aptana\test\index.php on line 32
+[28-Oct-2013 23:01:02 UTC] PHP Stack trace:
+[28-Oct-2013 23:01:02 UTC] PHP   1. {main}() D:\Coding\Aptana\test\index.php:0

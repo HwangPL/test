@@ -4,6 +4,7 @@ body {
 
 div#content {
 	/* border: 10px groove #ff00ff; */
+
 	margin: 0px auto;
 	background-color: #DDD;
 	width: 960px;
@@ -59,8 +60,7 @@ div#menu_carousel {
 	position: relative;left:4px;top:11px;
 	width: 168px;
 	height: 529px;
-	background-color: #663311;
-}
+	}
 
 div #menu_wtl {
 	background:url('images/workbench/window_top_left.jpg') no-repeat;
@@ -476,7 +476,7 @@ div#info_wbr {
 
 div#info_produkt {
 	position: relative;left:4px;top:11px;
-	width: 168px;
+	width: 509px;
 	height: 90px
 }
 
