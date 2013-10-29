@@ -1,4 +1,5 @@
 <? require_once ('mysql_connect.php'); connection(); ?>
+<? include ('functions.php'); ?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -12,28 +13,7 @@
 			    $('#mycarousel').jcarousel({
 			        vertical: true, scroll: 3, wrap: "last", animation: "slow"
 			    });
-		
-				
-				<? 
-					$result = mysql_query('SELECT id FROM produkt');
-					$j =  mysql_num_rows($result);
-						while ($produkt = mysql_fetch_array($result)) {
-									echo "$('#produkt" . $produkt[0] . "').click(function(){
-										";
-									for ($i=1; $i<=$j; $i++) {
-										if ($i == $produkt[0]) {
-											echo "$('.produkt" . $produkt[0] . "').show();
-											";
-											}
-										else {
-									   		echo "$('.produkt" . $i . "').hide();";
-											}
-											}
-											echo "});
-										";
-									}
-							
-				?>
+				<? karuzela_click()?>
 	    	 });
 		</script>
 	</head>
@@ -53,14 +33,7 @@
 					<div id="menu_wlm"> </div>
 			<div id="menu_carousel">
 				 			<ul id="mycarousel" class="jcarousel-skin-tango">
-				 				<? 
-									$i = 1;
-									$result = mysql_query('SELECT id FROM produkt');
-										while ($produkt = mysql_fetch_array($result)) {
-											echo "<li id=\"produkt" . $produkt[0] . "\"><img src=\"images/produkt" . $produkt[0] . ".jpg\" /></li>";
-										}
-									$i++;
-								?>
+				 			<? karuzela_img_view(); ?>
 							</ul>
 			</div>
 					<div id="menu_wr"> 
@@ -83,18 +56,7 @@
 					<div id="produkt_wtr"> </div>
 					<div id="produkt_wlm"> </div>
 					<div id="produkt_window">
-						<? 
-							$i = 1;
-							$result = mysql_query('SELECT id FROM produkt');
-							while ($produkt_img = mysql_fetch_array($result)) {
-								if ($i==1)
-									echo "<img class='img_produkt produkt1' id='produkt1_big' src='images/produkt1_big.jpg' alt='Zdjecie produktu' />";
-								else {
-									echo "<img class='img_produkt produkt" . $produkt_img[0] . "' style='display: none' id='produkt" . $produkt_img[0] . "_big' src='images/produkt" . $produkt_img[0] . "_big.jpg' alt='Zdjecie produktu' />";
-									}
-								$i++;
-							}
-						?>
+					<? produkt_img_view(); ?>
 					</div>
 					<div id="produkt_wr"> 
 						<div id="produkt_wrt"> </div>
@@ -129,18 +91,7 @@
 					<div id="info_wtr"> </div>
 					<div id="info_wlm"> </div>
 					<div id="info_produkt">
-						<?
-							$i = 1;
-							$result = mysql_query('SELECT * from produkt');
-							while ($produkt = mysql_fetch_array($result)) {
-								if ($i==1)
-									echo "<span class='produkt1'>" . $produkt[3] . "<br /><br /><b>CENA: </b>" . $produkt[2] ."PLN</span>";
-								else {
-									echo "<span class='produkt" . $i . "' style='display:none'>" . $produkt[3] . "<br /><br /><b>CENA: </b>	" . $produkt[2] ."PLN</span>";
-								}
-								$i++;
-							}
-						?>
+					<? produkt_info() ?>
 					</div>
 						
 					<div id="info_wr"> 
